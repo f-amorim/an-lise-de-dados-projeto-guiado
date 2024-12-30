@@ -8,4 +8,4 @@ Para este projeto foi utilizado o dataset video games sales 2024, e as perguntas
   <li>Como variam as notas de acordo com o genero?</li>
 </ul>
 
-<h2>*este projeto difere do original proposto pelo curso, havendo modificações tanto nas respostas como alterações o número de perguntas propostas a serem respondidas*</h2>
+<h2>*este projeto difere do original proposto pelo curso, havendo modificações tanto nas respostas como alterações no número de perguntas propostas a serem respondidas*</h2>
