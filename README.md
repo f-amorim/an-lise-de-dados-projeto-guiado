@@ -1,7 +1,7 @@
 # análise-de-dados-com-python: projeto-guiado
 Projeto guiado proposto pelo curso de análise de dados com python do Instituto dosEldorado
 
-Para este projeto foi utilizado o dataset video games sales 2024, e as perguntas aá serem respondidas usando-o são:
+Para este projeto foi utilizado o dataset video games sales 2024, e as perguntas á serem respondidas usando-o são:
 <ul>
   <li>Quais são os jogos mais vendidos? e como é a venda desses jogos para cada plataforma?</li>
   <li>A nota de um jogo influência na venda?</li>
